@@ -22,7 +22,7 @@ shinyUI(fluidPage(
       p("The final example is a world map with a Winkel-Tripel projection and also shows how to add projected points to the map (no interactivity)."),
       hr(),
       p("Written by ", a(href="http://twitter.com/hrbrmstr", "@hrbrmstr")),
-      p("Source on ", a(href="http://github.com/hrbrmstr", "github")),
+      p("Source on ", a(href="https://github.com/hrbrmstr/ggvis-maps", "github")),
       width=3
     ),
     mainPanel(
