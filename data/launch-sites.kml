@@ -1,0 +1,1415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name><![CDATA[List of rocket launch sites]]></name>
+	<open>1</open>
+	<Folder>
+		<name><![CDATA[Africa]]></name>
+		<open>1</open>
+		<Placemark>
+			<name><![CDATA[Hammaguir]]></name>
+			<Point>
+				<coordinates>-2.83581,31.09951,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Africa">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Reggane]]></name>
+			<Point>
+				<coordinates>0.27691,26.71895,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-1">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Kapani Tonneo]]></name>
+			<Point>
+				<coordinates>28.52766,-7.92587,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-1">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Jabal Hamzah]]></name>
+			<Point>
+				<coordinates>30.6051388888889,30.12575,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-2">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[San Marco platform]]></name>
+			<Point>
+				<coordinates>40.2134,-2.9408,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-4">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Sabha]]></name>
+			<Point>
+				<coordinates>14.46425,26.99392,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-5">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Nouadhibou]]></name>
+			<Point>
+				<coordinates>-17.03153,20.92856,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-6">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Overberg]]></name>
+			<Point>
+				<coordinates>20.30248,-34.60265,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-6">List of rocket launch sites</a>]]></description>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name><![CDATA[Asia]]></name>
+		<open>1</open>
+		<Placemark>
+			<name><![CDATA[Shijiedu]]></name>
+			<Point>
+				<coordinates>119.20575,30.93743,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Asia">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Jiuquan]]></name>
+			<Point>
+				<coordinates>100.4633,41.11803,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Asia">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Taiyuan]]></name>
+			<Point>
+				<coordinates>111.96741,39.14321,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-8">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Xichang]]></name>
+			<Point>
+				<coordinates>102.02814,28.24646,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-9">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Jingyu]]></name>
+			<Point>
+				<coordinates>126.5,42,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-11">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Vikram Sarabhai Space Centre]]></name>
+			<Point>
+				<coordinates>76.869,8.5314,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-11">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Balasore]]></name>
+			<Point>
+				<coordinates>87.04913,20.97582,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-12">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Sriharikota]]></name>
+			<Point>
+				<coordinates>80.2351,13.7374,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-12">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Wheeler Island]]></name>
+			<Point>
+				<coordinates>87.085533,20.75804,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-13">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Pameungpeuk]]></name>
+			<Point>
+				<coordinates>107.68822,-7.64635,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-13">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Lapan Space Center]]></name>
+			<Point>
+				<coordinates>106.866667,-6.266667,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-13">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Qom]]></name>
+			<Point>
+				<coordinates>50.9,34.65,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-13">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Emamshahr]]></name>
+			<Point>
+				<coordinates>55.02,36.42,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-14">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Semnan]]></name>
+			<Point>
+				<coordinates>53.920941,35.234631,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-15">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Al-Anbar]]></name>
+			<Point>
+				<coordinates>44.29962,32.7822,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-15">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Palmachim]]></name>
+			<Point>
+				<coordinates>34.6802,31.88484,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-16">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Akita]]></name>
+			<Point>
+				<coordinates>140.05785,39.57148,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-17">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Uchinoura]]></name>
+			<Point>
+				<coordinates>131.07914,31.25186,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-17">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Tanegashima]]></name>
+			<Point>
+				<coordinates>130.96813,30.39096,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-18">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Ryori]]></name>
+			<Point>
+				<coordinates>141.83,39.03,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-19">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Niijima]]></name>
+			<Point>
+				<coordinates>139.26575,34.33766,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-19">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Obachi]]></name>
+			<Point>
+				<coordinates>141.36938,40.70342,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-19">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Baikonur]]></name>
+			<Point>
+				<coordinates>63.35028,45.95515,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-19">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Sary Shagan]]></name>
+			<Point>
+				<coordinates>72.87,46.38,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-20">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Musudan-ri]]></name>
+			<Point>
+				<coordinates>129.66587,40.85572,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-20">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Anhueng]]></name>
+			<Point>
+				<coordinates>126.47158,36.70211,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-21">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Naro]]></name>
+			<Point>
+				<coordinates>127.52793,34.42585,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-21">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Gan Island]]></name>
+			<Point>
+				<coordinates>73.15672,-0.69328,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-22">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Sonmiani]]></name>
+			<Point>
+				<coordinates>66.74881,25.19242,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-23">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Tilla]]></name>
+			<Point>
+				<coordinates>73.29608,33.3961,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-25">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Kheysa]]></name>
+			<Point>
+				<coordinates>58.05,80.45,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-27">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Svobodny]]></name>
+			<Point>
+				<coordinates>128.2757,51.83441,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-27">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Sovetskaya Gavan]]></name>
+			<Point>
+				<coordinates>140.3,48.97,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-28">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Okhotsk]]></name>
+			<Point>
+				<coordinates>143.25,59.3666666666667,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-28">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Dombarovskiy]]></name>
+			<Point>
+				<coordinates>59.85003,51.20706,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-28">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Gangzi]]></name>
+			<Point>
+				<coordinates>120.9,22.1,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-29">List of rocket launch sites</a>]]></description>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name><![CDATA[Proposed or planned spaceports and rocket launch sites in Asia]]></name>
+		<open>1</open>
+		<Placemark>
+			<name><![CDATA[Tongch'ang-dong Space Launch Center]]></name>
+			<Point>
+				<coordinates>124.7114754,39.658075,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-31">List of rocket launch sites</a>]]></description>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name><![CDATA[Europe]]></name>
+		<open>1</open>
+		<Placemark>
+			<name><![CDATA[Ile de Levant]]></name>
+			<Point>
+				<coordinates>6.47887,43.04507,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Europe">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Raketenflugplatz Tegel]]></name>
+			<Point>
+				<coordinates>13.21,52.35,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Europe">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Peenemünde Greifswalder Oie]]></name>
+			<Point>
+				<coordinates>13.794,54.143,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Europe">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Cuxhaven]]></name>
+			<Point>
+				<coordinates>8.59154,53.84884,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Europe">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Hespenbusch]]></name>
+			<Point>
+				<coordinates>8.312515,52.939002,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Europe">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Zingst]]></name>
+			<Point>
+				<coordinates>12.78431,54.44008,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Europe">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Koroni]]></name>
+			<Point>
+				<coordinates>21.9316,36.7698,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Europe">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Vik]]></name>
+			<Point>
+				<coordinates>-19.00463,63.41891,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Europe">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Salto di Quirra]]></name>
+			<Point>
+				<coordinates>9.63303,39.52731,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Europe">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[And?ya]]></name>
+			<Point>
+				<coordinates>16.0207,69.2943,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Europe">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Marka]]></name>
+			<Point>
+				<coordinates>7.3,58.2,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-36">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[SvalRak]]></name>
+			<Point>
+				<coordinates>15.647,78.2234,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-36">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Tuchola Forest]]></name>
+			<Point>
+				<coordinates>17.98492,53.6197,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-36">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Łeba]]></name>
+			<Point>
+				<coordinates>17.59355,54.76904,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-36">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Łeba]]></name>
+			<Point>
+				<coordinates>17.517919,54.754486,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-36">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Blizna]]></name>
+			<Point>
+				<coordinates>21.6162,50.1819,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-36">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Kapustin Yar]]></name>
+			<Point>
+				<coordinates>46.2542,48.57807,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-36">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Nyonoksa]]></name>
+			<Point>
+				<coordinates>39.18721,64.64928,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-37">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[El Arenosillo]]></name>
+			<Point>
+				<coordinates>-6.73863,37.09687,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-37">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Nausta]]></name>
+			<Point>
+				<coordinates>19.275813,66.357202,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-37">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Kronoga*rd]]></name>
+			<Point>
+				<coordinates>19.2767,66.4147,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-38">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Kiruna]]></name>
+			<Point>
+				<coordinates>21.10429,67.89342,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-38">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[The Needles]]></name>
+			<Point>
+				<coordinates>-1.5763664,50.6639345,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-an.com_39-1">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[South Uist]]></name>
+			<Point>
+				<coordinates>-7.33,57.33,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-an.com_39-1">List of rocket launch sites</a>]]></description>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name><![CDATA[North America]]></name>
+		<open>1</open>
+		<Placemark>
+			<name><![CDATA[Fort Churchill]]></name>
+			<Point>
+				<coordinates>-93.8203,58.7343,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Hall Beach]]></name>
+			<Point>
+				<coordinates>-81.24346,68.77607,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-41">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Southend]]></name>
+			<Point>
+				<coordinates>-103.233333333333,56.3333333333333,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-41">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Thule]]></name>
+			<Point>
+				<coordinates>-68.2936,76.424,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-41">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Wallops Island]]></name>
+			<Point>
+				<coordinates>-75.47938,37.84621,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-42">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[White Sands]]></name>
+			<Point>
+				<coordinates>-106.35908,32.5646,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-43">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Nevada Test and Training Range]]></name>
+			<Point>
+				<coordinates>-116.11374,36.7715,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-44">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Cape Canaveral]]></name>
+			<Point>
+				<coordinates>-80.55852,28.46675,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-45">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Vandenberg]]></name>
+			<Point>
+				<coordinates>-120.60124,34.77204,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-45">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Kennedy Space Center]]></name>
+			<Point>
+				<coordinates>-80.604,28.6082,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-46">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[#81]]></name>
+			<Point>
+				<coordinates>-159.785,22.0227777777778,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-46">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Keweenaw]]></name>
+			<Point>
+				<coordinates>-87.71443,47.4298,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-46">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Kodiak]]></name>
+			<Point>
+				<coordinates>-152.33931,57.43533,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-46">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Mojave]]></name>
+			<Point>
+				<coordinates>-118.1488,35.0591,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-47">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Spaceport America]]></name>
+			<Point>
+				<coordinates>-106.99945,32.88943,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-47">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Mid-Atlantic Regional Spaceport]]></name>
+			<Point>
+				<coordinates>-75.483284,37.833378,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-49">List of rocket launch sites</a>]]></description>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name><![CDATA[Additional rocket launch sites in North America]]></name>
+		<open>1</open>
+		<Placemark>
+			<name><![CDATA[Arecibo]]></name>
+			<Point>
+				<coordinates>-66.4396,18.483,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Barbados]]></name>
+			<Point>
+				<coordinates>-59.4758,13.077,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Barter Island]]></name>
+			<Point>
+				<coordinates>-143.63455,70.10876,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Black Rock Desert]]></name>
+			<Point>
+				<coordinates>-119,41,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Black Mesa]]></name>
+			<Point>
+				<coordinates>-109.29,37.37,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Charlestown]]></name>
+			<Point>
+				<coordinates>-71.6684,41.36002,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Com Range]]></name>
+			<Point>
+				<coordinates>-104.9,31.33,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Cape Parry]]></name>
+			<Point>
+				<coordinates>-124.717,70.17,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Thule]]></name>
+			<Point>
+				<coordinates>-110.28293,54.40472,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Datil]]></name>
+			<Point>
+				<coordinates>-107.50777,34.08079,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Eareckson]]></name>
+			<Point>
+				<coordinates>174.07196,52.72301,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Eglin]]></name>
+			<Point>
+				<coordinates>-86.77345,30.39044,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Fort Bliss]]></name>
+			<Point>
+				<coordinates>-106.15256,32.07371,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Fort Greely]]></name>
+			<Point>
+				<coordinates>-145.73692,63.93414,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Fort Sherman]]></name>
+			<Point>
+				<coordinates>-79.95009,9.36262,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Fort Wingate]]></name>
+			<Point>
+				<coordinates>-108.5994,35.44868,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Fort Yukon]]></name>
+			<Point>
+				<coordinates>-145.1972,66.5623,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Gillam]]></name>
+			<Point>
+				<coordinates>-96.08925,56.08968,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Gilson Butte]]></name>
+			<Point>
+				<coordinates>-110.59802,38.60783,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Grand Turk Island]]></name>
+			<Point>
+				<coordinates>-71.138889,21.472222,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Holloman]]></name>
+			<Point>
+				<coordinates>-106.09836,32.90275,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Kwajalein]]></name>
+			<Point>
+				<coordinates>167.65457,8.99948,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Mercury]]></name>
+			<Point>
+				<coordinates>-115.96832,36.67421,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[NAOTS]]></name>
+			<Point>
+				<coordinates>-75.33765,37.95906,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[North Truro]]></name>
+			<Point>
+				<coordinates>-70.02,42,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Point Arguello]]></name>
+			<Point>
+				<coordinates>-120.6,34.62,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Point Barrow]]></name>
+			<Point>
+				<coordinates>-156.77593,71.28559,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Point Mugu]]></name>
+			<Point>
+				<coordinates>-119.12125,34.09943,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Poker Flat]]></name>
+			<Point>
+				<coordinates>-147.47894,65.12599,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Primrose Lake]]></name>
+			<Point>
+				<coordinates>-110.05,54.75,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Ramey]]></name>
+			<Point>
+				<coordinates>-67.12623,18.49601,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Red Lake]]></name>
+			<Point>
+				<coordinates>-93.47,50.88,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Resolute Bay]]></name>
+			<Point>
+				<coordinates>-94.89624,74.68696,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[San Clemente]]></name>
+			<Point>
+				<coordinates>-118.48698,32.91771,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[San Nicolas Island]]></name>
+			<Point>
+				<coordinates>-119.52208,33.27981,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Santiago Ixcuintla]]></name>
+			<Point>
+				<coordinates>-105.37,21.83,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Sheboygan]]></name>
+			<Point>
+				<coordinates>-87.714,43.751,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Sierra de Juarez]]></name>
+			<Point>
+				<coordinates>-115.83,32.25,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Sondre Stromfjord]]></name>
+			<Point>
+				<coordinates>-50.60053,67.02364,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Tonopah]]></name>
+			<Point>
+				<coordinates>-116.77946,37.79648,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Spaceport America]]></name>
+			<Point>
+				<coordinates>-106.99945,32.88943,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Yuma]]></name>
+			<Point>
+				<coordinates>-114.397,32.86,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_North_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name><![CDATA[Proposed or planned spaceports in North America]]></name>
+		<open>1</open>
+		<Placemark>
+			<name><![CDATA[Fort Churchill]]></name>
+			<Point>
+				<coordinates>-93.8203,58.7343,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-54">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Sheboygan]]></name>
+			<Point>
+				<coordinates>-87.714,43.751,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#cite_ref-54">List of rocket launch sites</a>]]></description>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name><![CDATA[South America]]></name>
+		<open>1</open>
+		<Placemark>
+			<name><![CDATA[Puerto Belgrano]]></name>
+			<Point>
+				<coordinates>-62.0167,-38.9,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#South_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Punta Indio]]></name>
+			<Point>
+				<coordinates>-57.2333,-35.2667,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#South_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[CELPA]]></name>
+			<Point>
+				<coordinates>-66.34082,-30.12737,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#South_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Serrezuela]]></name>
+			<Point>
+				<coordinates>-65.3833,-30.6333,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#South_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Las Palmas]]></name>
+			<Point>
+				<coordinates>-58.75352,-27.09531,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#South_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Tartagal]]></name>
+			<Point>
+				<coordinates>-63.82381,-22.76158,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#South_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Mar Chiquita]]></name>
+			<Point>
+				<coordinates>-57.40512,-37.72427,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#South_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Villa Reynolds]]></name>
+			<Point>
+				<coordinates>-65.3773,-33.7246,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#South_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Pampa de Achala]]></name>
+			<Point>
+				<coordinates>-64.8333,-31.5833,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#South_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Natal]]></name>
+			<Point>
+				<coordinates>-35.383,-5.866,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#South_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Praia do Cassino]]></name>
+			<Point>
+				<coordinates>-52.16725,-32.08338,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#South_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Alcantara]]></name>
+			<Point>
+				<coordinates>-44.3676,-2.316,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#South_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Kourou]]></name>
+			<Point>
+				<coordinates>-52.7695,5.23739,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#South_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Chilca]]></name>
+			<Point>
+				<coordinates>-76.79849,-12.50477,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#South_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Punta Lobos]]></name>
+			<Point>
+				<coordinates>-76.8,-12.5,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#South_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Coronie]]></name>
+			<Point>
+				<coordinates>-56.28908,5.87241,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#South_America">List of rocket launch sites</a>]]></description>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name><![CDATA[Australia and New Zealand]]></name>
+		<open>1</open>
+		<Placemark>
+			<name><![CDATA[Woomera]]></name>
+			<Point>
+				<coordinates>136.50366,-30.95875,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Australia_and_New_Zealand">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Carnarvon]]></name>
+			<Point>
+				<coordinates>113.40866,-24.48564,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Australia_and_New_Zealand">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Lancelin]]></name>
+			<Point>
+				<coordinates>115.31774,-30.98309,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Australia_and_New_Zealand">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Carnarvon]]></name>
+			<Point>
+				<coordinates>172.683,-43.817,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Australia_and_New_Zealand">List of rocket launch sites</a>]]></description>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name><![CDATA[Proposed or planned spaceports in Australia and New Zealand]]></name>
+		<open>1</open>
+		<Placemark>
+			<name><![CDATA[Cape York]]></name>
+			<Point>
+				<coordinates>143.1,-12.25,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Proposed_or_planned_spaceports_in_Australia_and_New_Zealand">List of rocket launch sites</a>]]></description>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name><![CDATA[Other]]></name>
+		<open>1</open>
+		<Placemark>
+			<name><![CDATA[Omelek]]></name>
+			<Point>
+				<coordinates>167.743083,9.048167,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Other">List of rocket launch sites</a>]]></description>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name><![CDATA[Additional rocket launch sites in the oceans and Antarctica]]></name>
+		<open>1</open>
+		<Placemark>
+			<name><![CDATA[Ascension Island]]></name>
+			<Point>
+				<coordinates>-14.4147,-7.97476,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_the_oceans_and_Antarctica">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Barking Sands]]></name>
+			<Point>
+				<coordinates>-159.7765,22.04872,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_the_oceans_and_Antarctica">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Base Matienzo]]></name>
+			<Point>
+				<coordinates>-60.1,-64.8,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_the_oceans_and_Antarctica">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Bigen island]]></name>
+			<Point>
+				<coordinates>171.04284,8.36458,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_the_oceans_and_Antarctica">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Bikini Atoll]]></name>
+			<Point>
+				<coordinates>165.55293,11.61498,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_the_oceans_and_Antarctica">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Dumont d'Urville]]></name>
+			<Point>
+				<coordinates>140.02,-64.67,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_the_oceans_and_Antarctica">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Eniwetok]]></name>
+			<Point>
+				<coordinates>162.32493,11.33991,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_the_oceans_and_Antarctica">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Guam]]></name>
+			<Point>
+				<coordinates>144.90248,13.59692,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_the_oceans_and_Antarctica">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Johnston]]></name>
+			<Point>
+				<coordinates>-169.5298,16.73294,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_the_oceans_and_Antarctica">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Kerguelen]]></name>
+			<Point>
+				<coordinates>70.21914,-49.3522,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_the_oceans_and_Antarctica">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Kindley]]></name>
+			<Point>
+				<coordinates>-64.68583,32.36179,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_the_oceans_and_Antarctica">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[McMurdo]]></name>
+			<Point>
+				<coordinates>166.66,-77.85,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_the_oceans_and_Antarctica">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Molodezhnaya Station]]></name>
+			<Point>
+				<coordinates>45.85,-67.66,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_the_oceans_and_Antarctica">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Rarotonga]]></name>
+			<Point>
+				<coordinates>-159.80614,-21.20237,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_the_oceans_and_Antarctica">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Rothera]]></name>
+			<Point>
+				<coordinates>-68.117,-67.567,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_the_oceans_and_Antarctica">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Siple]]></name>
+			<Point>
+				<coordinates>-84.2481,-75.94,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_the_oceans_and_Antarctica">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Syowa Base]]></name>
+			<Point>
+				<coordinates>39.58,-69,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_the_oceans_and_Antarctica">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Vicecomodoro]]></name>
+			<Point>
+				<coordinates>-56.72,-64.27,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_the_oceans_and_Antarctica">List of rocket launch sites</a>]]></description>
+		</Placemark>
+		<Placemark>
+			<name><![CDATA[Wake Island]]></name>
+			<Point>
+				<coordinates>166.61768,19.28997,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<description><![CDATA[<br>Source: Wikipedia article <a href="http://en.wikipedia.org/wiki/List_of_rocket_launch_sites#Additional_rocket_launch_sites_in_the_oceans_and_Antarctica">List of rocket launch sites</a>]]></description>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
