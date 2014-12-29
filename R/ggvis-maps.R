@@ -4,7 +4,8 @@ library(rgeos)
 library(magrittr)
 library(dplyr)
 library(RColorBrewer)
-library(tidyr)
+library(data.table)
+library(maptools)
 
 # Basic plot of Maine -----------------------------------------------------
 
@@ -13,9 +14,9 @@ maine <- readOGR("data/maine.geojson", "OGRGeoJSON")
 map <- ggplot2::fortify(maine, region="name")
 
 map %>%
-  group_by(group, id) %>%
   ggvis(~long, ~lat) %>%
-  layer_paths(strokeOpacity:=0.15) %>%
+  group_by(group, id) %>%
+  layer_paths(strokeOpacity:=0.5, stroke:="#7f7f7f") %>%
   hide_legend("fill") %>%
   hide_axis("x") %>% hide_axis("y") %>%
   set_options(width=400, height=600, keep_aspect=TRUE)
@@ -129,7 +130,7 @@ map_d <- merge(map, droughts, all.x=TRUE)
 
 ramp <- colorRampPalette(c("white", brewer.pal(n=9, name="YlOrRd")), space="Lab")
 
-map_d$fill_col <- as.character(cut(map_d$total, seq(0,100,10), nclude.lowest=TRUE, labels=ramp(10)))
+map_d$fill_col <- as.character(cut(map_d$total, seq(0,100,10), include.lowest=TRUE, labels=ramp(10)))
 map_d$fill_col <- ifelse(is.na(map_d$fill_col), "#FFFFFF", map_d$fill_col)
 
 drought_values <- function(x) {

@@ -145,7 +145,7 @@ shinyServer(function(input, output, session) {
 
   ramp <- colorRampPalette(c("white", brewer.pal(n=9, name="YlOrRd")), space="Lab")
 
-  map_d$fill_col <- as.character(cut(map_d$total, seq(0,100,10), nclude.lowest=TRUE, labels=ramp(10)))
+  map_d$fill_col <- as.character(cut(map_d$total, seq(0,100,10), include.lowest=TRUE, labels=ramp(10)))
   map_d$fill_col <- ifelse(is.na(map_d$fill_col), "#FFFFFF", map_d$fill_col)
 
   drought_values <- function(x) {
