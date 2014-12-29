@@ -18,7 +18,7 @@ map %>%
   layer_paths(strokeOpacity:=0.15) %>%
   hide_legend("fill") %>%
   hide_axis("x") %>% hide_axis("y") %>%
-  set_options(width = 400, height = 600, keep_aspect = TRUE)
+  set_options(width=400, height=600, keep_aspect=TRUE)
 
 # Basic map labeling ------------------------------------------------------
 
@@ -39,7 +39,7 @@ map %>%
              baseline:="middle", fontSize:=8) %>%
   hide_legend("fill") %>%
   hide_axis("x") %>% hide_axis("y") %>%
-  set_options(width = 400, height = 600, keep_aspect = TRUE)
+  set_options(width=400, height=600, keep_aspect=TRUE)
 
 
 # Basic choropleth --------------------------------------------------------
@@ -68,7 +68,7 @@ crime_values <- function(x) {
   y <- me_crime %>% filter(year==2013, county==x$id) %>% select(1,5:12)
   sprintf("<table width='100%%'>%s</table>",
           paste0("<tr><td style='text-align:left'>", names(y),
-         ":</td><td style='text-align:right'>", format(y), collapse = "</td></tr>"))
+         ":</td><td style='text-align:right'>", format(y), collapse="</td></tr>"))
 }
 
 map %>%
@@ -85,7 +85,7 @@ map %>%
   add_tooltip(crime_values, "hover") %>%
   add_legend("fill", title="Crime Rate/1K Pop") %>%
   hide_axis("x") %>% hide_axis("y") %>%
-  set_options(width = 400, height = 600, keep_aspect = TRUE)
+  set_options(width=400, height=600, keep_aspect=TRUE)
 
 
 # or with a constant domain across all crimes - we "need" to log scale the
@@ -110,7 +110,7 @@ map %>%
   add_tooltip(crime_values, "hover") %>%
   add_legend("fill", title="Crime Rate/1K Pop") %>%
   hide_axis("x") %>% hide_axis("y") %>%
-  set_options(width = 400, height = 600, keep_aspect = TRUE)
+  set_options(width=400, height=600, keep_aspect=TRUE)
 
 # US drought choropleth with custom projection ----------------------------
 
@@ -127,7 +127,7 @@ droughts$total <- with(droughts, (D0+D1+D2+D3+D4)/5)
 
 map_d <- merge(map, droughts, all.x=TRUE)
 
-ramp <- colorRampPalette(c("white", brewer.pal(n=9, name="YlOrRd")), space = "Lab")
+ramp <- colorRampPalette(c("white", brewer.pal(n=9, name="YlOrRd")), space="Lab")
 
 map_d$fill_col <- as.character(cut(map_d$total, seq(0,100,10), nclude.lowest=TRUE, labels=ramp(10)))
 map_d$fill_col <- ifelse(is.na(map_d$fill_col), "#FFFFFF", map_d$fill_col)
@@ -137,7 +137,7 @@ drought_values <- function(x) {
   y <- droughts %>% filter(id==x$id) %>% select(1,3,4,6:10)
   sprintf("<table width='100%%'>%s</table>",
           paste0("<tr><td style='text-align:left'>", names(y),
-         ":</td><td style='text-align:right'>", format(y), collapse = "</td></tr>"))
+         ":</td><td style='text-align:right'>", format(y), collapse="</td></tr>"))
 }
 
 map_d %>%
@@ -147,7 +147,7 @@ map_d %>%
   add_tooltip(drought_values, "hover") %>%
   hide_legend("fill") %>%
   hide_axis("x") %>% hide_axis("y") %>%
-  set_options(width = 900, height = 600, keep_aspect = TRUE)
+  set_options(width=900, height=600, keep_aspect=TRUE)
 
 # World domination --------------------------------------------------------
 

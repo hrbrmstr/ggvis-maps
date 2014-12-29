@@ -20,7 +20,7 @@ shinyServer(function(input, output, session) {
 # Show progress bar while loading everything ------------------------------
 
   progress <- shiny::Progress$new()
-  progress$set(message = "Loading maps/data", value = 0)
+  progress$set(message="Loading maps/data", value=0)
 
 # First plot --------------------------------------------------------------
 
@@ -34,7 +34,7 @@ shinyServer(function(input, output, session) {
     layer_paths(strokeOpacity:=0.15) %>%
     hide_legend("fill") %>%
     hide_axis("x") %>% hide_axis("y") %>%
-    set_options(width = 400, height = 600, keep_aspect = TRUE) %>%
+    set_options(width=400, height=600, keep_aspect=TRUE) %>%
     bind_shiny("maine")
 
 # Second plot -------------------------------------------------------------
@@ -54,7 +54,7 @@ shinyServer(function(input, output, session) {
                baseline:="middle", fontSize:=8) %>%
     hide_legend("fill") %>%
     hide_axis("x") %>% hide_axis("y") %>%
-    set_options(width = 400, height = 600, keep_aspect = TRUE) %>%
+    set_options(width=400, height=600, keep_aspect=TRUE) %>%
     bind_shiny("maine_labels")
 
 # Third plot --------------------------------------------------------------
@@ -84,7 +84,7 @@ shinyServer(function(input, output, session) {
     sprintf("<table width='100%%'>%s</table>",
             paste0("<tr><td style='text-align:left'>", names(y),
                    ":</td><td style='text-align:right'>", format(y),
-                   collapse = "</td></tr>"))
+                   collapse="</td></tr>"))
   }
 
   map %>%
@@ -101,7 +101,7 @@ shinyServer(function(input, output, session) {
     add_tooltip(crime_values, "hover") %>%
     add_legend("fill", title="Crime Rate/1K Pop") %>%
     hide_axis("x") %>% hide_axis("y") %>%
-    set_options(width = 400, height = 600, keep_aspect = TRUE) %>%
+    set_options(width=400, height=600, keep_aspect=TRUE) %>%
     bind_shiny("maine_crime_1", "maine_crime_1_ui")
 
 # Fourth plot -------------------------------------------------------------
@@ -125,7 +125,7 @@ shinyServer(function(input, output, session) {
     add_tooltip(crime_values, "hover") %>%
     add_legend("fill", title="Crime Rate/1K Pop") %>%
     hide_axis("x") %>% hide_axis("y") %>%
-    set_options(width = 400, height = 600, keep_aspect = TRUE)%>%
+    set_options(width=400, height=600, keep_aspect=TRUE)%>%
     bind_shiny("maine_crime_2", "maine_crime_2_ui")
 
 # Fifth plot --------------------------------------------------------------
@@ -143,7 +143,7 @@ shinyServer(function(input, output, session) {
 
   map_d <- merge(map, droughts, all.x=TRUE)
 
-  ramp <- colorRampPalette(c("white", brewer.pal(n=9, name="YlOrRd")), space = "Lab")
+  ramp <- colorRampPalette(c("white", brewer.pal(n=9, name="YlOrRd")), space="Lab")
 
   map_d$fill_col <- as.character(cut(map_d$total, seq(0,100,10), nclude.lowest=TRUE, labels=ramp(10)))
   map_d$fill_col <- ifelse(is.na(map_d$fill_col), "#FFFFFF", map_d$fill_col)
@@ -153,7 +153,7 @@ shinyServer(function(input, output, session) {
     y <- droughts %>% filter(id==x$id) %>% select(1,3,4,6:10)
     sprintf("<table width='100%%'>%s</table>",
             paste0("<tr><td style='text-align:left'>", names(y),
-                   ":</td><td style='text-align:right'>", format(y), collapse = "</td></tr>"))
+                   ":</td><td style='text-align:right'>", format(y), collapse="</td></tr>"))
   }
 
   map_d %>%
@@ -163,7 +163,7 @@ shinyServer(function(input, output, session) {
     add_tooltip(drought_values, "hover") %>%
     hide_legend("fill") %>%
     hide_axis("x") %>% hide_axis("y") %>%
-    set_options(width = 900, height = 600, keep_aspect = TRUE) %>%
+    set_options(width=900, height=600, keep_aspect=TRUE) %>%
     bind_shiny("drought")
 
 # Sixth plot --------------------------------------------------------------

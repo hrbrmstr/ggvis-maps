@@ -17,6 +17,8 @@ Making maps with ggvis with some examples showing:
 
 The `R` file lets you play interactively with each example. The `Rmd` file shows what the plots look like in static format. The Shiny code (`ui.R`, `server.R`) provides an interactive version in a Shiny app context.
 
+The `Rmd` has also been publised on [RPubs](http://rpubs.com/hrbrmstr/ggvis-maps).
+
 One of the caveats with `ggvis` is that you need an online context for interactively (making things like interactive choropleths useless without such a context). You'd need to account for this in the `Rmd` by setting up a faux-facet series for the maps, either with a `<table>` or `<div>` grid.
 
 =======================

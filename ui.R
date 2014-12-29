@@ -23,6 +23,7 @@ shinyUI(fluidPage(
       hr(),
       p("Written by ", a(href="http://twitter.com/hrbrmstr", "@hrbrmstr")),
       p("Source on ", a(href="https://github.com/hrbrmstr/ggvis-maps", "github")),
+      p("Static version on ", a(href="http://rpubs.com/hrbrmstr/ggvis-maps", "RPubs")),
       width=3
     ),
     mainPanel(
