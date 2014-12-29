@@ -13,7 +13,7 @@ Making maps with ggvis with some examples showing:
 - basic maps with points/labels
 - dynamic choropleths (with various scales)
 - applying projections and custom color fills
-- apply projections and projecting coordiantes for plotting
+- apply projections and projecting coordinates for plotting
 
 The `R` file lets you play interactively with each example. The `Rmd` file shows what the plots look like in static format. The Shiny code (`ui.R`, `server.R`) provides an interactive version in a Shiny app context.
 
