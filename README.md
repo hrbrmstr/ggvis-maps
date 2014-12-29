@@ -12,4 +12,10 @@ One of the caveats with `ggvis` is that you need an online context for interacti
 
 =======================
 
-Maine GeoJSON from `http://catalog.opendata.city/hu/dataset/maine-counties-polygon/resource/ee88d12c-a832-4e4f-a93c-dfd693694688` Maine crime data from `http://muskie.usm.maine.edu/justiceresearch/datacenter.html` Maine population data from `http://www.maine.gov/economist/census/` US GeoJSON from `http://eric.clst.org/Stuff/USGeoJSON` Drought data from `http://droughtmonitor.unl.edu/MapsAndData/GISData.aspx` World GeoJSON from `http://www.naturalearthdata.com/downloads/` Launch sites `kml` from `http://en.wikipedia.org/wiki/List_of_rocket_launch_sites`
+-   Maine GeoJSON from `http://catalog.opendata.city/hu/dataset/maine-counties-polygon/resource/ee88d12c-a832-4e4f-a93c-dfd693694688`
+-   Maine crime data from `http://muskie.usm.maine.edu/justiceresearch/datacenter.html`
+-   Maine population data from `http://www.maine.gov/economist/census/`
+-   US GeoJSON from `http://eric.clst.org/Stuff/USGeoJSON`
+-   Drought data from `http://droughtmonitor.unl.edu/MapsAndData/GISData.aspx`
+-   World GeoJSON from `http://www.naturalearthdata.com/downloads/`
+-   Launch sites `kml` from `http://en.wikipedia.org/wiki/List_of_rocket_launch_sites`

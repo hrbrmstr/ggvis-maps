@@ -13,6 +13,7 @@ library(magrittr)
 library(dplyr)
 library(RColorBrewer)
 library(data.table)
+library(maptools)
 
 shinyServer(function(input, output, session) {
 
